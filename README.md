@@ -41,6 +41,10 @@ The text data is preprocessed, transformed using TF-IDF Vectorization, and class
 
 ---
 
+## Confusion Matrix
+
+![Confusion Matrix](images/confusion-matrix.png)
+
 ## Results
 The model achieved good classification accuracy on the testing dataset.
 
